@@ -1,0 +1,15 @@
+Now that your speed reader is complete, you can now run usability tests over it. In particular, we will conduct a small test to answer the question: “does speed reading impact our ability to comprehend what we read?” In the field of human-computer interaction, researchers use usability tests to understand how real people interact with technology. In turn, they use this information how to better design software and hardware that people can use.
+
+The setup for the tests proceeds as follows:
+
+    Develop a corpus of texts to be used by your study participants. This should include approximately 8–10 excerpts of texts found on the Internet, e.g., wikipedia.org articles or gutenberg.org. Each excerpt should contain several paragraphs, ideally enough text so that speed reading at 350 WPM takes a minute or two per excerpt.
+    For four of the excerpts, develop a small comprehension quiz consisting of five comprehension questions each that require the reader to comprehend the text they are reading. These questions should be about facts regarding the content of the excerpts, not the particulars of the text, e.g., do not have questions to the effect of “how many three letter words did the excerpt contain?”. The remaining texts will be used to help the user train on the system.
+
+To run the test, find at least three participants that are willing to take your test. These should be individuals not currently in CSC 207—ideally, they shouldn’t be computer science majors! With each participant, do the following:
+
+    Tell the participant what the study is about, what you are trying to analyze, and what the procedure for the test is, i.e., these steps below. You do not need to hide anything from your participants.
+    Instruct the users on using your speed reader application. Show them the application and how it works. You may run the application for them to avoid the need to explain how Eclipse works.
+    Give your participants 15 minutes to train on using the application. Using the non-quiz texts in your corpus, let your participant use the speed reader at various speeds to become accustomed to the application. At this stage, the participant may go back and re-read texts as much as they would like to gain experience speed reading.
+    When they are ready, choose one of your quiz-texts at random and allow the participant to read the text without the use of the speed reader, i.e., in a plain text editor. They may read the text at their own pace. Once they are done, administer the quiz—the participant is not allowed to consult the text again at this point. Record which text was chosen along with the results of the quiz.
+    Repeat the previous step for the remaining quizes. However, rather than letting the participant read the text in a text editor, have them use your speed reader instead. Each text should be read at a different speed—250, 350, and 500 WPM. Furthermore, the participant should only be allowed to speed read the text once. Again, record the text chosen, the WPM the text is read at, and the results of the quiz.
+    After this step, the test is done. Make sure to thank your participant!
