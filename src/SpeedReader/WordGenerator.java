@@ -6,13 +6,11 @@ import java.io.IOException;
 import java.lang.String;
 
 public class WordGenerator {
-	// private File file;
 	private int wordCounter;
 	private int sentenceCounter;
 	private Scanner scanner;
 
 	public WordGenerator(String fileName) throws IOException {
-		// this.file = new File(fileName);
 		this.scanner = new Scanner(new File(fileName));
 		this.wordCounter = 0;
 		this.sentenceCounter = 0;
