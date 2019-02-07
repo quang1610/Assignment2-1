@@ -1,7 +1,7 @@
 # Assignment2
 Assignment 2
 Quang Duc Nguyen
-William Handerson
+William Henderson
 ***************************************************************************************************
 Recommend running at resolution: 1000x500. Input wpm will be set as default and can be changed.
 
