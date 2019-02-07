@@ -43,7 +43,7 @@ public class SpeedReader {
       System.exit(1);
     } else {
       // initialize the Objects and static variables
-      wordGen = new WordGenerator("testText.txt");
+      wordGen = new WordGenerator(args[0]);
       state = new ProgramState();
       // read from the args array and set value for width, height, fontSize, readSpeed.
       width = Integer.parseInt(args[1]);
