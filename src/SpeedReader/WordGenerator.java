@@ -31,7 +31,6 @@ public class WordGenerator {
 	 * @returns boolean in relation to whether the scanner has another token
 	 * @throws n/a
 	 */
-	/
 	public boolean hasNext() {
 		return this.scanner.hasNext();
 	}
