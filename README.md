@@ -78,28 +78,28 @@ Test 7 - 3/5
 Test 8 - 4/5
 
 Silas Landon - landonsi@grinnell.edu
-Quiz for test 1:
+Quiz for test 1:(normal reading 34s)
 1. How do the mistletoes get nutrients? absorbs from plants it has infected
 2. How to mistletoes spread its population? by latching on seeds to birds and other animals that brush up against it
 3. How to get rid of mistletoe? cut off the branch
 4. What happens to effected branch? it can lose nutrients and die
 5. Good things that mistletoes do to the animals? it can be a foodsource, athough their berries are generally poisonous, or a home
 
-Quiz for test 2:
+Quiz for test 2:(speed reading 250 wpm)
 1. What does cooling tower do? provides water for buildings air conditioning
 2. How can the bacteria in the cooling tower become harmful to people? How do they spread? it can spread legionaries desease, and by air
 3. What illness is associated with the bacteria? legionaires disease
 4. What regions in United States are effected by this bacteria inside the cooling tower? new york, north carolina
 5. What conclusion is give by Dr. Llewellyn? that the high number of cooling towers, 84% had the disease's dna
 
-Quiz for test 3:
+Quiz for test 3:(speed reading 350 wpm)
 1. What is the purpose of these ceramic figure? they were put in the tombs of wealthy aristocrats so that they would have it in the afterlife
 2. What continents did the Silk route travel through? Europe and Asia, while the text also states the Middle East, I'm under the impression that's not a continent
 3. What is the article mostly about? mostly about the ceramic figure, it goes into great detail to describe the shape of the two-humped camel and the man riding it
 4. Why does the color on the camel fade away? the glaze wore off over time
 5. What did people exchange on Silk Route? they exchanged goods such as the ceramic
 
-Quiz for test 4:
+Quiz for test 4:(speed reading 500 wpm)
 1. According to Eleanor Roosevelt, who should enjoy four basic rights? citizens of a democracy
 2. Sum up the four basic rights? right to work, right to justice, right to determine the laws which they are governed by, and right to liberty
 3. How did Eleanor Roosevelt respond to Addie Frizielle’s concern about the desegregation of restrooms in the workplace? that if they were using the same bathrooms they coud take sanitary tests and that she haad nothing to worry about since they woul be cleaned anyway
@@ -107,7 +107,7 @@ Quiz for test 4:
 5. What is the main idea of the letter? that there was nothing to worry about and that the progress of desegragation had few of the drawbacks Miss F was concerned about
 
 Phuc Huynh (Philip) Le - lephuc@grinnell.edu
-Quiz for test 1:
+Quiz for test 1:(speed reading 250 wpm)
 1. How do the mistletoes get nutrients?
 They feed on other trees. 
 2. How to mistletoes spread its population?
@@ -119,7 +119,7 @@ it lost nutrition.
 5. Good things that mistletoes do to the animals?
 They provide a home to some animals.
 
-Quiz for test 2:
+Quiz for test 2:(speed reading 350 wpm)
 1. What does cooling tower do?
 It gives away cool air. 
 2. How can the bacteria in the cooling tower become harmful to people? How do they spread? 
@@ -131,7 +131,7 @@ New York City's South Bronx.
 5. What conclusion is give by Dr. Llewellyn?
 Just because a cooling tower has the bacteria does not mean that it is spreading diseases.
 
-Quiz for test 3:
+Quiz for test 3:(speed reading 500 wpm)
 1. What is the purpose of these ceramic figure?
 To preserve the spirits of those decreased.
 2. What continents did the Silk route travel through?
@@ -143,7 +143,7 @@ Through the years.
 5. What did people exchange on Silk Route?
 Goods, services, cultures, and languages.
 
-Quiz for test 4:
+Quiz for test 4:(normal reading 35s)
 1. According to Eleanor Roosevelt, who should enjoy four basic rights? 
 Everyone
 2. Sum up the four basic rights?
@@ -156,7 +156,7 @@ Discourterous people are everywhere, regardless of their race and skin color.
 Advocates for colored people's equality and opposes segregation
 
 Vi Anh Nguyen - nguyenvi@grinnell.edu
-Quiz for test 1:
+Quiz for test 1:(speed reading 250 wpm)
 1. How do the mistletoes get nutrients?
 they take water and nutrients from host plants
 2. How do mistletoes spread its population?
@@ -168,7 +168,7 @@ Their growth is weakened.
 5. Good things that mistletoes do to the animals?
 they provide white berries.
 
-Quiz for test 2:
+Quiz for test 2:(speed reading 350 wpm)
 1. What does cooling tower do?
 spread bacteria
 2. How can the bacteria in the cooling tower become harmful to people? How do they spread? 
@@ -180,7 +180,7 @@ most regions
 5. What conclusion is give by Dr. Llewellyn?
 i dont know
 
-Quiz for test 3:
+Quiz for test 3:(speed reading 500 wpm)
 1. What is the purpose of these ceramic figure?
 made for tombs of aristocrats and merchants
 2. What continents did the Silk route travel through?
@@ -192,7 +192,7 @@ because the paint wears off
 5. What did people exchange on Silk Route?
 water, food?
 
-Quiz for test 4:
+Quiz for test 4:(normal reading 66s)
 1. According to Eleanor Roosevelt, who should enjoy four basic rights? 
 everyone in democracy
 2. Sum up the four basic rights?
