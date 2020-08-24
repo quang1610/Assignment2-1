@@ -19,4 +19,6 @@ The **main** function is in src/SpeedReader/SpeedReader.java. The program take 5
 4. The font size. (recommend 44)
 5. The reading speed (wpm) (recommned 300)
 
-Contributors: Will Henderson, Quang Nguyen.
+# Contributors: 
+- Will Henderson: henderso@grinnell.edu
+- Quang Nguyen: nguyenqu2@grinnell.edu
